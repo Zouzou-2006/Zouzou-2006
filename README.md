@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Nizar, a Computer Engineering and AI student at The Ohio State University with an A.A.S. in Software Engineering Technology from Cincinnati State. I’m passionate about software development, artificial intelligence, and quantitative finance, and I enjoy building projects that combine technology, data, and problem-solving. I’m always looking for opportunities to learn, build, and grow as an engineer.<br>
+I’m Nizar, a Computer Engineering and AI student at The Ohio State University. I’m passionate about software development, artificial intelligence, and quantitative finance, and I enjoy building projects that combine technology, data, and problem-solving. I’m always looking for opportunities to learn, build, and grow as an engineer.<br>
 
 
 ## 🌐 Socials:
